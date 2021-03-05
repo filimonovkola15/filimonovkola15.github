@@ -1,0 +1,16 @@
+.fon {
+  border-radius: 10px;
+  background-color: #50ae55;
+  box-shadow: 0 0 5px 2px;
+  margin: 0 auto;
+  width: 450px;
+  height: 320px;
+  position: relative;
+  top: 80px;
+
+}
+
+.collor{ 
+color: white;
+
+}
